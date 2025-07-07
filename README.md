@@ -73,4 +73,6 @@ The **Abacus login** process is your pathway to a secure and anonymous trading e
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/upload/glimpse.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/upload/focus.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update:  04 July Widget links
+
+
+Update: Updated cloud provider reference URLs
